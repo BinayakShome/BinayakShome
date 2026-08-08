@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=binayakshome&label=Profile%20views&color=0e75b6&style=flat" alt="binayakshome" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://binayakshome.github.io/Portfolio/](https://binayakshome.github.io/Portfolio/)
+
 
 - 📫 How to reach me **binayakshome3@gmail.com**
 
